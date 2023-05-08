@@ -1,0 +1,4 @@
+echo hello
+echo echo
+python \files\\test.py 5
+notepad
